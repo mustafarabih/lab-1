@@ -1,4 +1,4 @@
-# Wine-quality-prediction (Лаба 1 & 2)
+# Wine-quality-prediction Лаба 1
 Objectives:
 
  The objectives of this project are as follows
